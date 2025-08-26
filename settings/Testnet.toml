@@ -1,0 +1,7 @@
+[network]
+name = "testnet"
+stacks_node_rpc_address = "https://api.testnet.hiro.so"
+deployment_fee_rate = 10
+
+[accounts.deployer]
+mnemonic = "motion cabin glove knife rotate when universe fame work join behind body table apple vintage wash maximum journey diet column oblige hurdle gym glare"
